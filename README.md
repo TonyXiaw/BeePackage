@@ -1,2 +1,0 @@
-# BeePackage
-"Just Make Project"
